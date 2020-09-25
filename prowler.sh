@@ -1,3 +1,5 @@
+follow latest at --> https://github.com/toniblyx/prowler/tree/master/iam/
+
 pip install awscli detect-secrets
 yum install pip3
 yum install python3-pip
