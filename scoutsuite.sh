@@ -1,4 +1,4 @@
-follow latest at --> https://github.com/toniblyx/prowler/tree/master/iam/
+
 
 python3 -m pip install --user --upgrade pip
 python3 -m pip install --user virtualenv
